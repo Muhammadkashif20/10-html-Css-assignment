@@ -1,7 +1,7 @@
 h1 {
 
     color: white;
-    background-color: rgb(6, 6, 114);
+    background-color: rgb(5, 5, 97);
     text-align: center;
     font-family: arial;
     padding: 10px;
@@ -9,32 +9,29 @@ h1 {
     border: 10px solid #10006b;
     border-bottom: none;
     text-decoration: none;
-
-
+text-shadow: 3px 6px 2px black  ; 
+ 
+}
+:hover{
+    color: #0d63db;
 }
 
-a {
+
+.link {
     color: white;
-    background-color: rgb(6, 6, 114);
+    background-color: rgb(9, 89, 123);
     text-align: center;
     font-family: arial;
-    
+    width: 100%;
 
     padding: 10px;
     color: aliceblue;
-    border: 10px solid #10006b;
-    border-bottom: none;
-    text-decoration: none;
-}
+   display: block;
+   text-decoration: none;
+}   
 table{
+    background-color: rgb(9, 89, 123);
     color: white;
-    background-color: #1069ad;
-text-align: center;  
-font-family: arial;
-size: 50px;
-font-weight: 400;
-font-family: serif;
-
 }
 
 
@@ -45,3 +42,4 @@ h2 {
     text-align: center;
     font-size: xx-large;
 }
+
